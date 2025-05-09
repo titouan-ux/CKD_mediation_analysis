@@ -1,0 +1,95 @@
+"Variable","SelectionProportion"
+"sleep_pattern_Poor sleep pattern",0.89
+"iibs_2yr_Yes",0.87
+"social_isolation_Isolated",0.85
+"edu_CSEs or equivalent",0.85
+"employment_status_Unemployed",0.84
+"nucleated_red_blood_cell_count",0.79
+"comp_body_10_Plumper",0.79
+"HDL_cholesterol",0.78
+"avg_hhincome_Greater than 100,000",0.72
+"MSAVI",0.68
+"PM25",0.66
+"edu_O levels/GCSEs or equivalent",0.65
+"edu_NVQ or HND or HNC or equivalent",0.55
+"SHBG",0.54
+"reticulocyte_count",0.53
+"avg_hhincome_Less than 18,000",0.51
+"edu_None of the above",0.51
+"apolipoprotein_a",0.49
+"erythrocyte_distribution_width",0.49
+"employment_status_Retired",0.48
+"total_protein",0.47
+"own_rent_Rent",0.45
+"imd_quin",0.44
+"edu_A levels/AS levels or equivalent",0.44
+"smoke_status_Current",0.43
+"comp_height_10_Taller",0.43
+"lipoprotein_a",0.42
+"haemoglobin_concentration",0.42
+"avg_hhincome_52,000 to 100,000",0.42
+"alcohol_category_Previous Drinker (who currently never drink)",0.41
+"IGF-1",0.4
+"phosphate",0.4
+"triglycerides",0.4
+"loneliness_Lonely",0.4
+"own_rent_Other",0.4
+"vitamin_d",0.39
+"urate",0.37
+"monocyte_count",0.36
+"eosinophil_count",0.34
+"lden",0.34
+"dist_bluespace",0.34
+"maternal_smoking_Yes",0.34
+"met_score",0.33
+"alcohol_category_Moderate",0.33
+"comp_height_10_Shorter",0.33
+"alanine_aminotransferase",0.32
+"bmi",0.32
+"PM10",0.32
+"alcohol_category_Never/Abstinent (Excluding previous drinkers)",0.32
+"employment_status_Other",0.32
+"alkaline_phosphatase",0.31
+"erythrocyte_count",0.31
+"edu_Other professional qualifications eg: nursing, teaching",0.31
+"cystatin_c",0.3
+"platelet_count",0.3
+"diet_score",0.3
+"alcohol_category_Heavy",0.3
+"smoke_status_Previous",0.3
+"glucose",0.29
+"basophil_count",0.29
+"sys_bp",0.29
+"glycated_haemoglobin",0.28
+"impervious",0.28
+"albumin",0.27
+"neuroticism_score",0.27
+"NDVI",0.26
+"comp_body_10_Thinner",0.26
+"employment_status_Looking after home and/or family",0.26
+"alcohol_category_Abusive",0.25
+"aspartate_aminotransferase",0.24
+"testosterone",0.24
+"lymphocyte_count",0.24
+"neutrophil_count",0.24
+"apolipoprotein_b",0.23
+"physician_natd_Yes",0.23
+"urea",0.22
+"packyears",0.22
+"calcium",0.21
+"platelet_distribution_width",0.21
+"temp",0.21
+"sleep_pattern_Intermediate sleep pattern",0.21
+"c-reactive_protein",0.2
+"employment_status_Unable to work due to sickness",0.2
+"ozone",0.18
+"direct_bilirubin",0.17
+"creatinine",0.16
+"gamma_glutamyltransferase",0.16
+"avg_hhincome_18,000 to 30,999",0.16
+"total_bilirubin",0.15
+"NO2",0.11
+"dist_greenspace",0.11
+"LDL_direct",0.08
+"waist_circumference",0.07
+"cholesterol",0.06
